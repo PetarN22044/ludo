@@ -1,0 +1,33 @@
+.tabeli,th ,tr,td {
+    border: 1px solid black;
+   text-align: center;
+   width: 80px;
+   height: 65px;
+    padding: 5px;
+    }
+table{
+    border: 5px solid black;
+}
+.ttt{
+    background-color: red;
+}
+.ooo{
+    background-color: blue;
+}
+.ppp{
+  background-color: yellow;
+    
+}
+.kkk{
+    background-color: rgb(18, 229, 18);
+}
+.ddd {
+    background-image: url(./logo/Regural_field.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sss {
+    background-image: url(./logo/Start_image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
